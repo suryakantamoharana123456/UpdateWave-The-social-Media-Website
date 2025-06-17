@@ -9,10 +9,10 @@
 		<version>3.1.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.zosh</groupId>
+	<groupId>com.surya</groupId>
 	<artifactId>updatewave</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>zosh-social</name>
+	<name>updatewave</name>
 	<description>social media plateform</description>
 	<properties>
 		<java.version>17</java.version>
